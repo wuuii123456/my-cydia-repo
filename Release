@@ -7,11 +7,11 @@ Architectures: iphoneos-arm
 Components: main
 Description: A custom Cydia repository for iOS packages
 MD5Sum:
- 7e998efc5e929153a13ed777f71d0441 583 Packages
- 363ca5e9b0c9fea1ee0d9887cd30252d 420 Packages.gz
+ ffbeef6705732601a4f9a74258296786 612 Packages
+ d4f6d51ba72df851b24edfa848a7dad1 439 Packages.gz
 SHA1:
- d71091cbb4dd17e48abbe9a8db5206f2c1fad228 583 Packages
- 2c067a3baa80f9ede728c92811f414afb008d48a 420 Packages.gz
+ 2780a0bf8e54a724d3f80e41a619658f2ec765b0 612 Packages
+ c26087042d436461af60939cf978d6a3dd7832e8 439 Packages.gz
 SHA256:
- a690e8b7d2409e7d66dee1742fb7c243bb6c7ed65370ca22cbd30f9e80ec40ed 583 Packages
- 08abcf50676c428cfe80bbf7d9ae07bb34934ff2fe8afe4489b95076961c960e 420 Packages.gz
+ f60dcf3c14ead9a69fe1235025c2cea9447b78690a4accc16e5d47111ffc9f51 612 Packages
+ c5e52a1d98f11759bacf44c187d06798b981d0f6b8639eec6d5f38692fe175e0 439 Packages.gz
