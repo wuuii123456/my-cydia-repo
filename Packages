@@ -1,0 +1,17 @@
+Package: com.example.blankwhiteapp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 1024
+Filename: debs/com.example.blankwhiteapp_1.0.0_iphoneos-arm.deb
+Size: 1436
+MD5sum: e99f6ee8c1c9f1020de8385696ee9e36
+SHA1: 1005717a3a00d8ccb215426bbb0777425a278fe5
+SHA256: 11392d176819ee209cd072974dfdf7939a0c821d6d30448fa1678928ddc839b2
+Description: A simple blank white iOS app for iPhone 6 running iOS 12.5.7
+Maintainer: Your Name <your.email@example.com>
+Author: Your Name
+Section: Applications
+Depends: mobilesubstrate
+Priority: optional
+Homepage: https://github.com/yourusername/your-repo
+

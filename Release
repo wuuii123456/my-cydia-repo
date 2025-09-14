@@ -1,0 +1,17 @@
+Origin: My Cydia Repo
+Label: My Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A custom Cydia repository for iOS packages
+MD5Sum:
+ 1234567890abcdef1234567890abcdef 1 Packages
+ 0987654321fedcba0987654321fedcba 1 Packages.gz
+SHA1:
+ 1234567890abcdef1234567890abcdef12345678 1 Packages
+ 0987654321fedcba0987654321fedcba09876543 1 Packages.gz
+SHA256:
+ 1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef 1 Packages
+ 0987654321fedcba0987654321fedcba0987654321fedcba0987654321fedcba 1 Packages.gz
