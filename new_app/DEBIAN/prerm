@@ -1,0 +1,9 @@
+#!/bin/bash
+# Pre-removal script for Blank White App
+
+# Remove the app from SpringBoard
+if [ -f /usr/bin/uicache ]; then
+    /usr/bin/uicache
+fi
+
+exit 0

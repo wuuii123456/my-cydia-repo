@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple placeholder executable for Blank White App
+echo "Blank White App is running"
+exit 0

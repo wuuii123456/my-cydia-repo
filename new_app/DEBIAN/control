@@ -1,0 +1,14 @@
+Package: com.yourname.blankwhiteapp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 2048
+Maintainer: Your Name <your.email@example.com>
+Depends: firmware (>= 12.0)
+Section: Applications
+Priority: optional
+Description: Blank White App
+ A simple blank white iOS app that displays a clean white screen with the app name.
+ This is a standalone application that will appear on your home screen.
+Name: Blank White App
+Author: Your Name
+Homepage: https://github.com/yourusername/your-repo
